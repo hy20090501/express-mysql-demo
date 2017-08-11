@@ -20,7 +20,7 @@ run `gulp` to start
 
 Enjoy your local app at http://localhost:8090.
 
-职工列表：http://localhost:8090/employee/list
+用户列表：http://localhost:8090/user/list
 
 
 
