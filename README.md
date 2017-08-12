@@ -1,4 +1,4 @@
-#Express+Gulp+BrowserSync+nodemon
+#Express+mysql+Gulp+BrowserSync+nodemon
 Run an Express app base on browserSync proxy, you can enjoy browser reloading.
 
 ### Installation
